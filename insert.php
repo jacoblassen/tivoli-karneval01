@@ -102,6 +102,7 @@
 	$stmt->bind_param("ssssis", $fname, $lname, $addr, $email, $zip, $news);
 	$stmt->execute();
 	
+	if($error == 1){
 	$headers = "From: " . $sender . "\r\n";
 	$headers .= "Reply-To: ". $sender . "\r\n";
 	$headers .= "CC: susan@example.com\r\n";
@@ -120,4 +121,10 @@
 	</html>';
 	//sender email efter indsætning
 	//mail($email, "Karneval i Tivoli", "$message", "$headers");
+	
+	header('Location: landing.php');
+	
+	}
+	
+	
 ?>

@@ -39,11 +39,11 @@
         	<div class="rammecontent">
             	<div id="contactform">
             		<form name="input" action="html_form_action.asp" method="get">
-                    <p>Dit navn:</p><input type="text" name="kundeemail">
+                    <p>Dit navn:</p><input type="text" name="custname">
                     <br />
-					<p>Din egen e-mail:</p><input type="text" name="kundeemail">
+					<p>Din egen e-mail:</p><input type="text" name="custemail">
                     <br />
-                    <p>Indhold:</p><textarea rows="4" cols="53"></textarea>
+                    <p>Indhold:</p><textarea rows="4" cols="53" name="message"></textarea>
                     <br />
 					<input type="submit" value="Send">
 					</form>

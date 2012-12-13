@@ -325,7 +325,7 @@ h2 {
 
 .infoOpenBox	{
 	display:inline-block;
-	width:100px;
+	width:150px;
 	margin:5px 0 0 0;
 }
 
@@ -335,5 +335,12 @@ h2 {
 	font-family: 'georgia', serif;
 	color:#000;
 	font-size:14px;
-	color:#e5ddb9;
+	color:#fff;
+}
+
+.comment	{
+	font-family: 'georgia', serif;
+	font-size:11px;
+	color:#fff;
+	font-style:italic;
 }

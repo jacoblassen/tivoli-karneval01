@@ -31,7 +31,6 @@
 <div id="master">
   <div id="frame">
 		<div id="frametop">
-        	<img src="images/rammetop02.png" />
         </div><!--frametop-->
         
             <div id="sideframewrapper">
@@ -42,15 +41,19 @@
                 
                 <div id="programwrapper">
                 	<h2>Åbningstider</h2><br />
-                	<div class="infoOpenBox"><p class="infoDag">Torsdag</p></div><div class="infoOpenBox"><p class="infoTid">11.00-23.00</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Fredag</p></div><div class="infoOpenBox"><p class="infoTid">11.00-23.00</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Lørdag</p></div><div class="infoOpenBox"><p class="infoTid">11.00-23.00</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Søndag</p></div><div class="infoOpenBox"><p class="infoTid">11.00-23.00</p></div><br />
+                	<div class="infoOpenBox"><p class="infoDag">Torsdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
+                	<div class="infoOpenBox"><p class="infoDag">Fredag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
+                	<div class="infoOpenBox"><p class="infoDag">Lørdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
+                	<div class="infoOpenBox"><p class="infoDag">Søndag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-24.00</p></div><br />
+                	<br />
+                	
+                	<h2>Priser</h2><br />
+                	<div class="infoOpenBox"><p class="infoDag">Entre barn 0- 7 år*</p></div><div class="infoOpenBox"><p class="infoTid">95Kr</p></div><br />
+                	<div class="infoOpenBox"><p class="infoDag">Entre voksen 8 år+</p></div><div class="infoOpenBox"><p class="infoTid">Gratis</p></div><br />
+                	<p class="p1">Hvis du møder op udklædt vil du få 50% rabat på entre prisen.</p>
+                	<p class="comment">*Børn under 8 år skal ledsages af en voksen. Én voksen kan højest ledsage fire børn under 8 år. Ved flere end fire børn per voksen betales fuld entré-pris per barn ud over det fjerde barn under 8 år.</p>
+                	
                 </div><!--programwrapper-->
-                
-                <div id="mapDiv">
-                	<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.dk/maps?f=q&amp;source=s_q&amp;hl=da&amp;geocode=&amp;q=tivoli&amp;aq=&amp;sll=55.59332,13.426026&amp;sspn=1.524026,4.784546&amp;t=h&amp;ie=UTF8&amp;hq=tivoli&amp;ll=55.674637,12.565668&amp;spn=0.012584,0.032015&amp;output=embed"></iframe><br /><small><a href="https://maps.google.dk/maps?f=q&amp;source=embed&amp;hl=da&amp;geocode=&amp;q=tivoli&amp;aq=&amp;sll=55.59332,13.426026&amp;sspn=1.524026,4.784546&amp;t=h&amp;ie=UTF8&amp;hq=tivoli&amp;ll=55.674637,12.565668&amp;spn=0.012584,0.032015" style="color:#0000FF;text-align:left">Vis stort kort</a></small>    
-                </div><!--mapDiv-->
                 
             	</div><!--rammecontent-->
         
@@ -60,7 +63,6 @@
         </div><!--sideframewrapper-->
     	
         <div id="framebottom">
-        	<img src="images/rammebottom02.png" />
         </div><!--framebottom-->
     
     </div><!--frame-->

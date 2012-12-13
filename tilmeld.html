@@ -1,0 +1,83 @@
+<div id="tilmeldMaster" onClick="tilmeldClose()">
+	<div id="tilmeldDiv" onClick="tilmeldProg(event)">
+		<div id="tilmeldDesc">
+		<h1>Vær med i konkurrencen om 2 årskort til Tivoli</h1>
+		<p>Hver uge bliver der trukket lod om 2 årskort til Tivoli.<br /> Jo hurtigere du tilmelder dig, jo større er dine chancer for, at være en af de heldige vindere</p>
+		</div><!--tilmedlDesc-->
+		<form id="formToValidate" name="form" method="post" onsubmit="return validateForm()" action="insert.php">
+			<div class="formBox">
+					<div class="formLeft">
+						<p>Fornavn:</p>
+					</div><!--formLeft-->
+					<div class="formRight">
+						<input type="text" name="fname" />
+					</div><!--formRight-->
+			</div><!--formBox-->
+			
+			<div class="formBox">
+					<div class="formLeft">
+						<p>Efternavn:</p>
+					</div><!--formLeft-->
+					<div class="formRight">
+						<input type="text" name="lname" />
+					</div><!--formRight-->
+			</div><!--formBox-->
+			
+			<div class="formBox">
+					<div class="formLeft">
+						<p>E-mail:</p>
+					</div><!--formLeft-->
+					<div class="formRight">
+						<input type="text" name="email" />
+					</div><!--formRight-->
+			</div><!--formBox-->
+			
+			<div class="formBox">
+					<div class="formLeft">
+						<p>Addresse:</p>
+					</div><!--formLeft-->
+					<div class="formRight">
+						<input type="text" name="addr" />
+					</div><!--formRight-->
+			</div><!--formBox-->
+			
+			<div class="formBox">
+					<div class="formLeft">
+						<p>Postnr:</p>
+					</div><!--formLeft-->
+					<div class="formRight">
+						<input type="text" name="zip" />
+					</div><!--formRight-->
+			</div><!--formBox-->
+			
+			<div class="formBox">
+					<div class="formLeft">
+						<p>Ønsker du at modtage nyhedsbrev?</p>
+					</div><!--formLeft-->
+					<div class="formRight">
+						<input type="checkbox" name="news" />
+					</div><!--formRight-->
+			</div><!--formBox-->
+			
+			<div class="formBox">
+					<div class="formLeft">
+					</div><!--formLeft-->
+					<div class="formRight">
+						<input type="submit" value="Tilmeld"/>
+					</div><!--formRight-->
+			</div><!--formBox-->
+		</form>
+	</div><!--tilmeldDiv-->
+</div><!--tilmeldMasrer-->
+	<div id="tilmeldKnap" onClick="tilmeldOpen()">
+			
+	</div><!--tilmeldKnap-->
+<!--<script type="text/javascript">
+	//placere #tilmeldKnap i højre side efter screen width
+  	//$(document).ready(function () {
+  		//var ml = screen.width;
+  		//ml = ml-50;
+  		//ml = ml + "px"
+  		//document.getElementById('tilmeldKnap').style.marginLeft = ml;
+	//});
+//</script>-->

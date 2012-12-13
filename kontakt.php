@@ -29,7 +29,7 @@
   <div id="frame">
 		<div id="frametop">
         	<div class="frametophtag">
-            	<h1>Nyheder</h1>
+            	<h1>Kontakt Tivoli</h1>
             </div><!--frametophtag-->
         </div><!--frametop-->
         <div id="sideframewrapper">

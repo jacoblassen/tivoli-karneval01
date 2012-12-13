@@ -93,7 +93,9 @@
         
           <div id="frame">
                 <div id="frametop">
-                    <img src="images/rammetop02.png" />
+                	<div class="frametophtag">
+            			<h1>Nyheder</h1>
+           			</div><!--frametophtag-->
                 </div><!--frametop-->
                 
                     <div id="sideframewrapper">
@@ -111,7 +113,6 @@
                 </div><!--sideframewrapper-->
                 
                 <div id="framebottom">
-                    <img src="images/rammebottom02.png" />
                 </div><!--framebottom-->
             
             </div><!--frame-->

@@ -49,6 +49,8 @@
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
             
+            <hr class="hrgolden" />
+            
           <div class="rammecontent">
             	<div class="contactwrapper">
                 	<div class="contacttext2">
@@ -63,6 +65,8 @@
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
             
+            <hr class="hrgolden" />
+            
             <div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
@@ -71,11 +75,13 @@
                 	<div class="contacttext1">
                     	<h1>Mike Simony</h1>
                         <p>Key Account Manager.</p>
-                        <p>5975 527</p>
+                        <p>5975 5274</p>
                         <p>Misi@tivoli.dk</p>
                 	</div><!--contacttext-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
+            
+            <hr class="hrgolden" />
             
             <div class="rammecontent">
             	<div class="contactwrapper">

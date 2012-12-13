@@ -27,6 +27,12 @@ h2 {
 	font-weight:400;
 }
 
+.hrgolden {
+	background-image:url(images/hr.png);
+	background-repeat:repeat-x;
+	width: 300px;
+}
+
 #test {
 	width: auto;
 	display:none;

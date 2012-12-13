@@ -191,6 +191,7 @@ h2 {
 #frametop {
 	height: 100px;
 	width: 700px;
+	background-image:url(images/rammetop02.png);
 }
 
 #sideframewrapper{
@@ -201,6 +202,29 @@ h2 {
 #framebottom {
 	height:100px;
 	width: 700px;
+	background-image:url(images/rammebottom02.png);
+}
+
+.frametophtag {
+	height: 20px;
+	width: 700px;
+	margin-top: 50px;
+	float: left;
+	text-align:center;
+}
+
+#tiltoppen {
+	height: 20px;
+	width: 700px;
+	margin-top: 30px;
+	float: left;
+}
+
+#tiltoppen a {
+	font-family: 'Old Standard TT', serif;
+	text-align:center;
+	color:#e5ddb9;
+	text-decoration:underline;
 }
 
 #rammemiddle {

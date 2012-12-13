@@ -50,7 +50,7 @@
                 	<h2>Priser</h2><br />
                 	<div class="infoOpenBox"><p class="infoDag">Entré barn 0- 7 år*</p></div><div class="infoOpenBox"><p class="infoTid">95Kr</p></div><br />
                 	<div class="infoOpenBox"><p class="infoDag">Entré voksen 8 år+</p></div><div class="infoOpenBox"><p class="infoTid">Gratis</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Gruppe entré,<br /> min. 15 personer</p></div><div class="infoOpenBox"><p class="infoTid">Gratis</p></div><br />
+                	<div class="infoOpenBox"><p class="infoDag">Gruppe entré,<br /> min. 15 personer</p></div><div class="infoOpenBox"><p class="infoTid">90Kr pr. person</p></div><br />
                 	<br />
                 	<br />
                 	<p class="p1">Hvis du møder op udklædt vil du få 50% rabat på entré prisen.</p>

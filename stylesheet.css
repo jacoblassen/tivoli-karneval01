@@ -30,7 +30,7 @@ h2 {
 .hrgolden {
 	background-image:url(images/hr.png);
 	background-repeat:repeat-x;
-	width: 300px;
+	width: 452px;
 }
 
 #test {
@@ -247,6 +247,7 @@ h2 {
 	width: 520px;
 	margin: 0 90px 0 90px;
 	padding-top:20px;
+	padding-bottom: 20px;
 }
 
 .contactimage1 {

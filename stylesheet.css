@@ -16,7 +16,7 @@ h1 {
 h2 {
 	font-size:22px;
 	font-family: 'Old Standard TT', serif;
-	ont-weight:600;
+	font-weight:600;
 	color:#e5ddb9;
 	
 }
@@ -194,6 +194,17 @@ h2 {
 	margin: -8px auto 0 auto;
 }
 
+#contactform {
+	height: auto;
+	width: 450px;
+	margin: 0 auto 0 auto;
+}
+
+#contactform p {
+	color:#e5ddb9;
+	font-family: 'Old Standard TT', serif;
+}
+
 #frametop {
 	height: 100px;
 	width: 700px;
@@ -278,7 +289,6 @@ h2 {
 	margin-left: 35px;
 	float: left;
 	text-align: right;
-	font-family:Georgia, serif;
 }
 
 .contacttext1 p {
@@ -286,12 +296,16 @@ h2 {
 }
 
 .contacttext2 p {
-	color:white;
+	color: white;
+	line-height: 20px;
+	font-family: Georgia, serif;
 }
 
 .contactwrapper {
 	height: 150px;
 	width: 520px;
+	line-height: 20px;
+	font-family: Georgia, serif;
 }
 
 #programwrapper {

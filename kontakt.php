@@ -35,6 +35,23 @@
         <div id="sideframewrapper">
         
         <div id="rammemiddle">
+        
+        	<div class="rammecontent">
+            	<div id="contactform">
+            		<form name="input" action="html_form_action.asp" method="get">
+                    <p>Dit navn:</p><input type="text" name="kundeemail">
+                    <br />
+					<p>Din egen e-mail:</p><input type="text" name="kundeemail">
+                    <br />
+                    <p>Indhold:</p><textarea rows="4" cols="53"></textarea>
+                    <br />
+					<input type="submit" value="Send">
+					</form>
+                </div><!--contactform-->
+            </div><!--rammecontent-->
+            
+            <hr class="hrgolden" />
+            
         	<div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
@@ -44,7 +61,7 @@
                     	<h1>Patrick Brockmann</h1>
                         <p>Underdirektør, Markedsføring.</p>
                         <p>4875 8957</p>
-                        <p>pabr@tivoli.dk</p>
+                        <a href="mailto:pabr@tivoli.dk"><p>pabr@tivoli.dk</p></a>
                 	</div><!--contacttext-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
@@ -55,9 +72,9 @@
             	<div class="contactwrapper">
                 	<div class="contacttext2">
                     	<h1>Jens Peter Schandorff</h1>
-                        <p>Strategisk Kommerciel Ansvarlig</p>
+                        <p>Strategisk Kommerciel Ansvarlig.</p>
                         <p>5265 4585</p>
-                        <p>js@tivoli.dk</p>
+                        <a href="mailto:Jps@tivoli.dk"><p>Jps@tivoli.dk</p></a>
                 	</div><!--contacttext-->
                     <div class="contactimage2">
                 		<img src="images/577900_10200102803360939_1627181608_n.jpg" height="150px" width="150px" />
@@ -76,7 +93,7 @@
                     	<h1>Mike Simony</h1>
                         <p>Key Account Manager.</p>
                         <p>5975 5274</p>
-                        <p>Misi@tivoli.dk</p>
+                        <a href="mailto:Misi@tivoli.dk"><p>Misi@tivoli.dk</p></a>
                 	</div><!--contacttext-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
@@ -89,8 +106,8 @@
                     	<h1>Jacob Lassen</h1>
                         <p>Direktør for Sikkerhed.</p>
                         <p>8924 3548</p>
-                        <p>Jala@tivoli.dk</p>
-                	</div><!--contacttext-->
+                        <a href="mailto:Jala@tivoli.dk"><p>Jala@tivoli.dk</p></a>
+                    </div><!--contacttext-->
                     <div class="contactimage2">
                 		<img src="images/16954_390441190073_1680772_n.jpg" width="150px" />
                 	</div><!--contactimage-->

@@ -38,7 +38,7 @@
         
         	<div class="rammecontent">
             	<div id="contactform">
-            		<form name="input" action="html_form_action.asp" method="get">
+            		<form name="input" action="email.php" method="post">
                     <p>Dit navn:</p><input type="text" name="custname">
                     <br />
 					<p>Din egen e-mail:</p><input type="text" name="custemail">

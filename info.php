@@ -67,9 +67,24 @@
                 	</div><!--praktoiskDiv-->
                 	
                 	<div id="ofteDiv">
-	                	<h4>Hvad er tivoli karneval?</h4><br />
-	                	<p class="p1">test</p>
-	                	<br />
+	                	<h4>Hvad er tivoli karneval?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Har i en Rabat-ordning?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Hvornår er karnevalet?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Hvor lang tid vare Karnevalet?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Skal man være udklædt for at komme?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Er det normal pris under Karnevalet?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Kan man købe kostume hos jer?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Skal børnene være udklædt for at slå katten af tønden?</h4>
+	                	<p class="p1">test</p><br />
+	                	<h4>Hvordan tilmelder jeg mig jeres konkurrence?</h4>
+	                	<p class="p1">test</p><br />
                 	</div><!--ofteDiv-->
                 	
                 </div><!--programwrapper-->

@@ -388,3 +388,7 @@ h2 {
 	font-weight:600;
 	color:#e5ddb9;
 }
+
+#praktiskDiv, #ofteDiv	{
+	padding:5px 0 0 0;
+}

@@ -67,8 +67,8 @@
                 	</div><!--praktoiskDiv-->
                 	
                 	<div id="ofteDiv">
-	                	<h4>?</h4><br />
-	                	???
+	                	<h4>Hvad er tivoli karneval?</h4><br />
+	                	<p class="p1">test</p>
 	                	<br />
                 	</div><!--ofteDiv-->
                 	

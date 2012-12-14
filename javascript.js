@@ -133,6 +133,11 @@ $(document).ready(function() {
 	$('#febII').hide();
 	$('#febIII').hide();
 	$('#febIIII').hide();
+	$('#ofteDiv').hide();
 });
-	
-		
+
+function hideshow(hide, show){
+	hide.style.display = "none"
+	show.style.display = "block"
+
+}

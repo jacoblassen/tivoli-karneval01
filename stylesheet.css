@@ -373,3 +373,18 @@ h2 {
 	color:#fff;
 	font-style:italic;
 }
+
+.frametophtag span	{
+	font-family: 'georgia', serif;
+	color:#e5ddb9;
+	font-size:20px;
+	font-weight:600;
+	margin: 0 22px 10px 22px;
+}
+
+#programwrapper h4 {
+	font-size:22px;
+	font-family: 'Old Standard TT', serif;
+	font-weight:600;
+	color:#e5ddb9;
+}

@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="cssreset.css" type="text/css" />
 <link rel="stylesheet" href="stylesheet.css" type="text/css" />
 <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css'>
+<script src="js/jquery.min.js" type="text/javascript"></script>
 <script src="javascript.js" type="text/javascript"></script>
 </head>
 
@@ -31,6 +32,10 @@
 <div id="master">
   <div id="frame">
 		<div id="frametop">
+				<div class="frametophtag">
+            	<a href="#" onClick="hideshow(ofteDiv, praktiskDiv)"><span>Praktisk Info</span></a>
+            	<a href="#" onClick="hideshow(praktiskDiv, ofteDiv)"><span>Ofte Stilte Spørgsmål</span></a>
+            </div><!--frametophtag-->
         </div><!--frametop-->
         
             <div id="sideframewrapper">
@@ -40,24 +45,32 @@
                 <div id="rammecontent">
                 
                 <div id="programwrapper">
-                	<h2>Åbningstider</h2><br />
-                	<div class="infoOpenBox"><p class="infoDag">Torsdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Fredag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Lørdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Søndag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-24.00</p></div><br />
-                	<br />
-                	<hr class="hrgolden" />
-                	<h2>Priser</h2><br />
-                	<div class="infoOpenBox"><p class="infoDag">Entré barn 0- 7 år*</p></div><div class="infoOpenBox"><p class="infoTid">95Kr</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Entré voksen 8 år+</p></div><div class="infoOpenBox"><p class="infoTid">Gratis</p></div><br />
-                	<div class="infoOpenBox"><p class="infoDag">Gruppe entré,<br /> min. 15 personer</p></div><div class="infoOpenBox"><p class="infoTid">90Kr pr. person</p></div><br />
-                	<br />
-                	<br />
-                	<p class="p1">Hvis du møder op udklædt vil du få 50% rabat på entré prisen.</p>
-                	<br />
-                	<p class="comment">*Børn under 8 år skal ledsages af en voksen. Én voksen kan højest ledsage fire børn under 8 år. Ved flere end fire børn per voksen betales fuld entré-pris per barn ud over det fjerde barn under 8 år.</p>
-                	<hr class="hrgolden" />
-                	<br />
+                	<div id="praktiskDiv">
+	                	<h4>Åbningstider</h4><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Torsdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Fredag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Lørdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Søndag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-24.00</p></div><br />
+	                	<br />
+	                	<hr class="hrgolden" />
+	                	<h4>Priser</h4><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Entré barn 0- 7 år*</p></div><div class="infoOpenBox"><p class="infoTid">95Kr</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Entré voksen 8 år+</p></div><div class="infoOpenBox"><p class="infoTid">Gratis</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Gruppe entré,<br /> min. 15 personer</p></div><div class="infoOpenBox"><p class="infoTid">90Kr pr. person</p></div><br />
+	                	<br />
+	                	<br />
+	                	<p class="p1">Hvis du møder op udklædt vil du få 50% rabat på entré prisen.</p>
+	                	<br />
+	                	<p class="comment">*Børn under 8 år skal ledsages af en voksen. Én voksen kan højest ledsage fire børn under 8 år. Ved flere end fire børn per voksen betales fuld entré-pris per barn ud over det fjerde barn under 8 år.</p>
+	                	<hr class="hrgolden" />
+	                	<br />
+                	</div><!--praktoiskDiv-->
+                	
+                	<div id="ofteDiv">
+	                	<h4>?</h4><br />
+	                	???
+	                	<br />
+                	</div><!--ofteDiv-->
                 	
                 </div><!--programwrapper-->
                 

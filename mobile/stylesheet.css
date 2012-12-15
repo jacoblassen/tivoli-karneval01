@@ -1,0 +1,60 @@
+body {
+	background-image:url(images/bg.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+
+#header	{
+	background-image:url(images/headertransp.png);
+	background-repeat:repeat-x;
+	width:auto;
+	height:auto;
+}
+
+#headerImgDiv	{
+	width:280px;
+	height:auto;
+	margin:0 auto 0 auto;
+}
+
+#headImg	{
+	width:280px;
+}
+
+#navDiv	{
+	width:280px;
+	height:25px;
+	background-image:url("images/globalmenu.png");
+	margin: 0 auto 0 auto;
+}
+
+.navBox{
+	width:100px;
+	height:auto;
+	display:inline-block;
+}
+
+#navBoxLeft	{
+	float:left;
+	margin: 0 0 0 40px;
+}
+
+#navBoxRight	{
+	float:right;
+	margin: 0 40px 0 0;
+}
+
+.navBox p	{
+	font-family: 'Old Standard TT', serif;
+	color:#e5ddb9;
+	font-size:20px;
+	font-weight:600;
+	text-align:center;
+}
+
+#programMaster	{
+	width:280px;
+	height:auto;
+	margin:0 auto 0 auto;
+}

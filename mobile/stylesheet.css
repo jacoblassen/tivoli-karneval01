@@ -56,18 +56,18 @@ body {
 #programMaster	{
 	width:280px;
 	height:auto;
-	margin:0 auto 0 auto;
+	margin:20px auto 0 auto;
 }
 
 .frameTop	{
 	width:280px;
-	height:25px;
+	height:30px;
 	background-image:url("images/rammetop.png");
-	padding: 5px 0 0 0;
 }
 
-#programwrapper	{
-	background-image:url("images/rammemiddle.png")
+.programwrapper	{
+	background-image:url("images/rammemiddle.png");
+	padding: 0 10px 0 10px;
 }
 
 .frameBottom	{
@@ -81,6 +81,7 @@ body {
 	font-family: 'Old Standard TT', serif;
 	color:#e5ddb9;
 	font-size:20px;
+	padding-top:5px;
 }
 
 h2	{
@@ -88,4 +89,19 @@ h2	{
 	color:#e5ddb9;
 	font-size:18px;
 	display:inline-block;
+}
+
+#febIspan, #febIIspan, #febIIIspan, #febIIIIspan	{
+	font-family: 'georgia', serif;
+	color:#e5ddb9;
+	font-size:12px;
+	display:inline-block;
+	float:right;
+}
+
+.p1	{
+	color:white;
+	font-size:14px;
+	font-weight:400;
+	font-family:'georgia', serif;
 }

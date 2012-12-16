@@ -60,4 +60,13 @@ $(document).ready(function() {
 	$('#febII').hide();
 	$('#febIII').hide();
 	$('#febIIII').hide();
+	$('#ofteDiv').hide();
+	$('#infoDiv').hide();
 });
+
+function hideshow(hide, show, underline, none){
+	hide.style.display = "none";
+	show.style.display = "block";
+	underline.style.textDecoration = "underline";
+	none.style.textDecoration = "none";
+}

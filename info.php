@@ -59,7 +59,7 @@
 	                	<div class="infoOpenBox"><p class="infoDag">Gruppe entré,<br /> min. 15 personer</p></div><div class="infoOpenBox"><p class="infoTid">90Kr pr. person</p></div><br />
 	                	<br />
 	                	<br />
-	                	<p class="p1">Hvis du møder op udklædt vil du få 50% rabat på entré prisen.</p>
+	                	<p class="p1">Hvis du møder op udklædt, vil du få 50% rabat på entré prisen.</p>
 	                	<br />
 	                	<p class="comment">*Børn under 8 år skal ledsages af en voksen. Én voksen kan højest ledsage fire børn under 8 år. Ved flere end fire børn per voksen betales fuld entré-pris per barn ud over det fjerde barn under 8 år.</p>
 	                	<hr class="hrgolden" />

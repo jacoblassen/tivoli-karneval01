@@ -53,7 +53,7 @@ body {
 	text-align:center;
 }
 
-#programMaster	{
+.programMaster	{
 	width:280px;
 	height:auto;
 	margin:20px auto 0 auto;
@@ -106,4 +106,55 @@ h2	{
 	font-size:14px;
 	font-weight:400;
 	font-family:'georgia', serif;
+}
+
+#infoLeft, #infoRight	{
+	display:inline-block;
+	width:100px;
+}
+
+#infoLeft	{
+	float:left;
+	margin: 0 0 0 30px;
+}
+
+#infoRight	{
+	float:right;
+	margin: 0 40px 0 0px;
+}
+
+.hrgolden {
+	background-image:url(images/hr.png);
+	background-repeat:repeat-x;
+	width: 170px;
+}
+
+/*Info*/
+.infoOpenBox	{
+	display:inline-block;
+	width:130px;
+	margin:8px 0 0 0;
+}
+
+.infoOpenBox p	{
+	display:inline;
+	font-family: 'georgia', serif;
+	color:#000;
+	font-size:14px;
+	color:#fff;
+}
+
+.comment	{
+	font-family: 'georgia', serif;
+	font-size:11px;
+	color:#fff;
+	font-style:italic;
+}
+
+#ofteDiv h2	{
+	font-size:16px;
+}
+
+#programNav, #infoLeft	{
+	text-decoration: underline;
 }

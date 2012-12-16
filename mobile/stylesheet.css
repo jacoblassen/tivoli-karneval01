@@ -58,3 +58,34 @@ body {
 	height:auto;
 	margin:0 auto 0 auto;
 }
+
+.frameTop	{
+	width:280px;
+	height:25px;
+	background-image:url("images/rammetop.png");
+	padding: 5px 0 0 0;
+}
+
+#programwrapper	{
+	background-image:url("images/rammemiddle.png")
+}
+
+.frameBottom	{
+	width:280px;
+	height:30px;
+	background-image:url("images/rammebottom.png");
+}
+
+.frameTop	p{
+	text-align: center;
+	font-family: 'Old Standard TT', serif;
+	color:#e5ddb9;
+	font-size:20px;
+}
+
+h2	{
+	font-family: 'Old Standard TT', serif;
+	color:#e5ddb9;
+	font-size:18px;
+	display:inline-block;
+}

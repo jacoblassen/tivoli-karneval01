@@ -89,6 +89,7 @@ h2	{
 	color:#e5ddb9;
 	font-size:18px;
 	display:inline-block;
+	cursor:pointer;
 }
 
 #febIspan, #febIIspan, #febIIIspan, #febIIIIspan	{
@@ -97,6 +98,7 @@ h2	{
 	font-size:12px;
 	display:inline-block;
 	float:right;
+	cursor:pointer;
 }
 
 .p1	{

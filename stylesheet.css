@@ -262,6 +262,56 @@ h2 {
 	padding-bottom: 20px;
 }
 
+.nyhedwrapper {
+	width: 520px;
+	height: auto;
+	margin: 0 90px 0 90px;
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+
+.nyhedimage {
+	width: 450px;
+	height: 150px;
+	margin: 0 auto 0 auto;
+}
+
+.nyhedtext {
+	width: 450px;
+	height: auto;
+	margin: 0 auto 0 auto;
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+
+.nyhedtext p {
+	font-family: 'georgia', serif;
+	font-size:14px;
+	color:#fff;
+}
+
+.timestamp {
+	width: 110px;
+	height: 20px;
+	font-family: 'georgia', serif;
+	font-size:10px;
+	font-style:italic;
+	margin-left: 340px;
+}
+
+.timestamp p {
+	color:#999;
+}
+
+.nyhedheadline {
+	height: 20px;
+	width: 450px;
+	font-family: 'Old Standard TT', serif;
+	text-align:center;
+	color:#e5ddb9;
+	margin: 20px auto 0 auto;
+}
+
 .contactimage1 {
 	width: 150px;
 	height: 150px;
@@ -363,7 +413,6 @@ h2 {
 	display:inline;
 	width:200px;
 	font-family: 'georgia', serif;
-	color:#000;
 	font-size:14px;
 	color:#fff;
 }

@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<div id="top"></div>
 <?php
 	include 'tilmeld.html';
 ?>

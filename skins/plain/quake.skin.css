@@ -39,7 +39,7 @@
 .quake-slider-caption-container
 {
     background-color: black;
-	margin: 10px 5px 10px 50px;
+	margin: 10px 5px 10px 45px;
 }
 .quake-slider-caption-container.vertical
 {
@@ -80,7 +80,7 @@
     font-size: 18px;
     font-family: Georgia, serif;
     padding: 10px;
-     line-height:1.5em;
+    line-height:1.5em;
     word-spacing:.2em;
 }
 .quake-slider-caption.vertical

@@ -61,9 +61,9 @@
 		<div id="featherdiv">    	
             <div class="quake-slider">
                 <div class="quake-slider-images">
-                    <a href="javascript:/"><img src="images/fastelavn01.jpg" alt="" /></a>
-                    <a href="javascript:/"><img src="images/tivoliaarskort.jpg" alt="" /></a>
-                    <a href="javascript:/"><img src="images/udklaedning.jpg" alt="" /></a>
+                    <a href="#linkkatten"><img src="images/fastelavn01.jpg" alt="Slå katten af tønden for de små, i Tivoli." /></a>
+                    <a href="#linkaarskort"><img src="images/tivoliaarskort.jpg" alt="Tilmeld dig karnevalsfesten i Tivoli med chance for at vinde 2 Tivoli årskort." /></a>
+                    <a href="#linkcostume"><img src="images/udklaedning.jpg" alt="Kom og vær udklædt til Tivolis karneval, der er flotte priser at vinde." /></a>
                 </div>
                 
                 <div class="quake-slider-captions quake-slider-caption-container">
@@ -94,7 +94,7 @@
           <div id="frame">
                 <div id="frametop">
                 	<div class="frametophtag">
-            			<h1>Nyheder</h1>
+            			<h1>Slå katten af tønden</h1>
            			</div><!--frametophtag-->
                 </div><!--frametop-->
                 
@@ -102,20 +102,83 @@
                     
                         <div id="rammemiddle">
                         
-                        <div id="rammecontent">
+                        <div id="linkkatten"></div>
+                        	<div class="nyhedwrapper">
+                            	<div class="nyhedimage"><img src="images/fastelavn02.jpg" alt="Slå katten af tønden i Tivoli." />
+                                </div><!--nyhedimage-->
+                                
+                                <div class="nyhedtext">
+                                	<p>Fastelavn er en gammel tradition i Danmark og en tid, hvor børn klæder sig ud og har det sjovt. Vi, her i Tivoli, vil gerne være med til at fejre traditionen ved at invitere til at slå katten af tønden.</p>
+                                	<br />
+                                
+                                	<p>Der er nye tønder med slik, fest og farver, hver dag klokken 13.30-14.30 foran koncertsalen.</p>
+                                
+                                	<br />
+                                
+                                	<p>Så hvis du har et eller flere børn mellem 5-10år, så vil i være mere end velkomne til at deltage. Kom og vær med og bliv konge eller dronning for en dag, i Tivoli.</p>
+                                
+                                	<div class="timestamp">
+                                    	<p>Dato 16.12.2012</p>
+                                    </div><!--timestamp-->
+                                </div><!--nyhedtext-->
+                            </div><!--nyhedwrapper-->
+                
+                			<hr class="hrgolden" />
+                			
+                			<div id="linkaarskort"></div>
                             
-                                   
-                    </div><!--rammecontent-->
+                            <div class="nyhedheadline">
+                            <h1>Vind 2 årskort</h1>
+                            </div><!--nyhedheadline-->
+
+                        	<div class="nyhedwrapper">
+                            	<div class="nyhedimage" onclick="tilmeldOpen()"><img src="images/tivoliaarskort02.jpg" alt="Vind et årskort til Tivoli" />
+                                </div><!--nyhedimage-->
+                                
+                                <div class="nyhedtext">
+                                	<p>I forbindelse med karnevallet, afholder vi en konkurrence med chance for at vinde 2 årskort. Der vil blive trukket lod hver uge op til karnevallet d. 7-10. Feb. Så jo før du tilmelder dig, jo større er chancen for at vinde et års eventyr i Tivoli.</p>
+                                	<br />
+                                	<p>Deltag i konkurrencen ved at trykke på fanen ude i højre side, eller billedet ovenfor.</p>
+                                	
+                                
+                                	<div class="timestamp">
+                                    	<p>Dato 01.12.2012</p>
+                                    </div><!--timestamp-->
+                                </div><!--nyhedtext-->
+                                
+                            </div><!--nyhedwrapper-->
+                            
+                            <hr class="hrgolden" />
+                            
+                            <div id="linkcostume"></div>
+                            <div class="nyhedwrapper">
+                            	<div class="nyhedimage"><img src="images/costumes01.jpg" alt="Slå katten af tønden i Tivoli." />
+                                </div><!--nyhedimage-->
+                                
+                                <div class="nyhedtext">
+                                	<p>Fastelavn er en gammel tradition i Danmark og en tid, hvor børn klæder sig ud og har det sjovt. Vi, her i Tivoli, vil gerne være med til at fejre traditionen ved at invitere til at slå katten af tønden.</p>
+                                	<br />
+                                
+                                	<p>Der er nye tønder med slik, fest og farver, hver dag klokken 13.30-14.30 foran koncertsalen.</p>
+                                
+                                	<br />
+                                
+                                	<p>Så hvis du har et eller flere børn mellem 5-10år, så vil i være mere end velkomne til at deltage. Kom og vær med og bliv konge eller dronning for en dag, i Tivoli.</p>
+                                
+                                	<div class="timestamp">
+                                    	<p>Dato 15.11.2012</p>
+                                    </div><!--timestamp-->
+                                </div><!--nyhedtext-->
+                            </div><!--nyhedwrapper-->
                 
-                </div><!--rammemiddle-->
+                		</div><!--rammemiddle-->
                     
-                    
-                </div><!--sideframewrapper-->
+               		</div><!--sideframewrapper-->
                 
-                <div id="framebottom">
-                </div><!--framebottom-->
+                	<div id="framebottom">
+                	</div><!--framebottom-->
             
-            </div><!--frame-->
+          </div><!--frame-->
 
     </div><!--master-->
         

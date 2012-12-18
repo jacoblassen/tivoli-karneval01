@@ -456,3 +456,7 @@ h2 {
 #praktiskDiv, #ofteDiv	{
 	padding:5px 0 0 0;
 }
+
+#praktiskSpan	{
+	text-decoration:underline;
+}

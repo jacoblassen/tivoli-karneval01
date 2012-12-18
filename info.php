@@ -33,8 +33,8 @@
   <div id="frame">
 		<div id="frametop">
 				<div class="frametophtag">
-            	<a href="#" onClick="hideshow(ofteDiv, praktiskDiv)"><span>Praktisk Info</span></a>
-            	<a href="#" onClick="hideshow(praktiskDiv, ofteDiv)"><span>Ofte Stilte Spørgsmål</span></a>
+            	<a href="#" onClick="hideshow(ofteDiv, praktiskDiv, praktiskSpan, ofteSpan)"><span id="praktiskSpan">Praktisk Info</span></a>
+            	<a href="#" onClick="hideshow(praktiskDiv, ofteDiv, ofteSpan, praktiskSpan)"><span id="ofteSpan">Ofte Stilte Spørgsmål</span></a>
             </div><!--frametophtag-->
         </div><!--frametop-->
         

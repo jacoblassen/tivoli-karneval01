@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<?php include_once("analyticstracking.php") ?>
 <div id="top"></div>
 <?php
 	include 'tilmeld.html';

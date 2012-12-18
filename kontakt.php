@@ -121,7 +121,7 @@
         </div><!--sideframewrapper-->
     	<div id="framebottom">
         	<div id="tiltoppen">
-        		<a href="#top"><p>Tilbage til toppen</p></a>
+        		<p><a class="tilTop" href="#top">Tilbage til toppen</a></p>
         	</div><!--tiltoppen-->
         </div>
     </div>

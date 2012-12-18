@@ -390,6 +390,24 @@ h2 {
 	font-family: Georgia, serif;
 }
 
+.contacttext2 a:visited {
+	color: white;
+	line-height: 20px;
+	font-family: Georgia, serif;
+}
+
+.contacttext1 a {
+	color: white;
+	line-height: 20px;
+	font-family: Georgia, serif;
+}
+
+.contacttext1 a:visited {
+	color: white;
+	line-height: 20px;
+	font-family: Georgia, serif;
+}
+
 .contactwrapper {
 	height: 150px;
 	width: 520px;

@@ -5,7 +5,7 @@
 <title>Information om Tivolis karneval</title>
 <link rel="stylesheet" href="cssreset.css" type="text/css" />
 <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css' />
 <script src="javascript.js" type="text/javascript"></script>
 </head>
 

@@ -71,6 +71,32 @@ function validateForm()	{
 	
 }
 
+function kontaktvalidate()	{
+	document.forms['input']['custname'].style.backgroundColor = "#fff";
+	document.forms['input']['custemail'].style.backgroundColor = "#fff";
+	
+	var konError = 0;
+	var konName = document.forms['input']['custname'].value;
+	var konMail = document.forms['input']['custemail'].value;
+	
+	if(!(konName.match(/^[a-zA-ZæøåÆØÅ é]+$/))){
+		konError = 1;
+		document.forms['input']['custname'].style.backgroundColor = "#f06565";
+	}
+	
+	if(!(konMail.match(/^\w+@[a-zA-Z_-]+?\.[a-zA-Z]{2,6}$/))){
+		konError = 1;
+		document.forms['input']['custemail'].style.backgroundColor = "#f06565";
+	}
+	
+	if(konError == 0){
+		return true;
+	}
+	else{
+		return false;
+	}
+}
+
 var febI = 1;
 var febII = 1;
 var febIII = 1;

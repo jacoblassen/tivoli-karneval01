@@ -129,6 +129,18 @@ h2 {
 	font-weight:600;
 }
 
+#skoleDiv	{
+	height:auto;
+	width:auto;
+	display:inline-block;
+	position:relative;
+	float:right;
+}
+
+#skoleDiv span	{
+	color:#FFF;
+}
+
 /*Tilmelding*/
 
 #tilmeldKnap	{

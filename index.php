@@ -72,10 +72,10 @@
 			<div id="featherdiv">    	
             	<div class="quake-slider">
                 	<div class="quake-slider-images">
-                    	<a href="#linkkatten"><img src="images/fastelavn01.jpg" alt="Slå katten af tønden for de små, i Tivoli." /></a>
-                    	<a href="#linkaarskort"><img src="images/tivoliaarskort.jpg" alt="Tilmeld dig karnevalsfesten i Tivoli med chance for at vinde 2 Tivoli årskort." /></a>
-                    	<a href="#linkcostume"><img src="images/costumes01.jpg" alt="Kom og vær udklædt til Tivolis karneval, der er flotte priser at vinde." /></a>
-                    	<a href="#linkudklaedning"><img src="images/udklaedning03.jpg" alt="Tivoli har indgået samarbejde med Udklaedning.dk" /></a>
+                    	<a href="#linkkatten"><img src="images/fastelavn01.jpg" alt="Slå katten af tønden for de små, i Tivoli." title="Slå katten af tønden for de små, i Tivoli." /></a>
+                    	<a href="#linkaarskort"><img src="images/tivoliaarskort.jpg" alt="Tilmeld dig karnevalsfesten i Tivoli med chance for at vinde 2 Tivoli årskort." title="Tilmeld dig karnevalsfesten i Tivoli med chance for at vinde 2 Tivoli årskort." /></a>
+                    	<a href="#linkcostume"><img src="images/costumes01.jpg" alt="Kom og vær udklædt til Tivolis karneval, der er flotte priser at vinde." title="Kom og vær udklædt til Tivolis karneval, der er flotte priser at vinde." /></a>
+                    	<a href="#linkudklaedning"><img src="images/udklaedning03.jpg" alt="Tivoli har indgået samarbejde med Udklaedning.dk" title="Tivoli har indgået samarbejde med Udklaedning.dk" /></a>
                 </div><!--quake-slider-images-->
                 
                 <div class="quake-slider-captions quake-slider-caption-container">
@@ -124,7 +124,7 @@
                         </div><!--linkkatten-->
                         <div class="nyhedwrapper">
                            	<div class="nyhedimage">
-                               	<img src="images/fastelavn02.jpg" alt="Slå katten af tønden i Tivoli." />
+                               	<img src="images/fastelavn02.jpg" alt="Slå katten af tønden i Tivoli." title="Slå katten af tønden i Tivoli." />
                             </div><!--nyhedimage-->
                                 
                         	    <div class="nyhedtext">
@@ -154,7 +154,7 @@
 
                         	<div class="nyhedwrapper">
                             	<div class="nyhedimage" onclick="tilmeldOpen()">
-                                	<a href="#"><img src="images/tivoliaarskort02.jpg" alt="Vind et årskort til Tivoli" /></a>
+                                	<a href="#"><img src="images/tivoliaarskort02.jpg" alt="Vind to årskort til Tivoli" title="Vind to årskort til Tivoli" /></a>
                                 </div><!--nyhedimage-->
                                 
                                 <div class="nyhedtext">
@@ -181,7 +181,7 @@
                             
                             <div class="nyhedwrapper">
                             	<div class="nyhedimage">
-                                	<img src="images/costumes02.jpg" alt="Kom udklædt til karneval i Tivoli og vind!" />
+                                	<img src="images/costumes02.jpg" alt="Kom udklædt til karneval i Tivoli og vind!" title="Kom udklædt til karneval i Tivoli og vind!" />
                                 </div><!--nyhedimage-->
                                 
                                 <div class="nyhedtext">
@@ -212,7 +212,7 @@
                             
                             <div class="nyhedwrapper">
                             	<div class="nyhedimage">
-                                <a href="http://www.udklaedning.dk" target="_blank"><img src="images/udklaedning02.jpg" alt="Kom udklædt til karneval i Tivoli og vind!" /></a>
+                                <a href="http://www.udklaedning.dk" target="_blank"><img src="images/udklaedning02.jpg" alt="Tivoli har indgået samarbejde med Udklaedning.dk" title="Tivoli har indgået samarbejde med Udklaedning.dk" /></a>
                                 </div><!--nyhedimage-->
                                 
                                 <div class="nyhedtext">

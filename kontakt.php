@@ -62,7 +62,7 @@
         	<div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
-                		<img src="images/patrick.jpg" alt="" height="150px" width="150px" />
+                		<img src="images/patrick.jpg" alt="Patrick Brockmann" title="Patrick Brockmann" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 	<div class="contacttext1">
                     	<h1>Patrick Brockmann</h1>
@@ -86,7 +86,7 @@
                         <p><a href="mailto:Jps@tivoli.dk">Jps@tivoli.dk</a></p>
                 	</div><!--contacttext-->
                     <div class="contactimage2">
-                		<img src="images/jens.jpg" alt="" height="150px" width="150px" />
+                		<img src="images/jens.jpg" alt="Jens Peter Schandorff" title="Jens Peter Schandorff" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
@@ -96,7 +96,7 @@
             <div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
-                		<img src="images/mike.jpg" alt="" height="150px" width="150px" />
+                		<img src="images/mike.jpg" alt="Mike Simony" title="Mike Simony" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 	<div class="contacttext1">
                     	<h1>Mike Simony</h1>
@@ -118,7 +118,7 @@
                         <p><a href="mailto:Jala@tivoli.dk">Jala@tivoli.dk</a></p>
                     </div><!--contacttext-->
                     <div class="contactimage2">
-                		<img src="images/jacob.jpg" alt="" height="150px" width="150px" />
+                		<img src="images/jacob.jpg" alt="Jacob Lassen" title="Jacob Lassen" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->

@@ -42,14 +42,14 @@
 				<div class="frametophtag" id="infoFrameTop">
 					<div class="infoNavBox">
 						<div class="infoPilDiv">
-							<img id="infoPilLeft" alt="" src="images/pined.png" width="15" height="13" />
+							<img id="infoPilLeft" alt="Praktisk info" title="Praktisk info" src="images/pined.png" width="15" height="13" />
 						</div><!--infoPilDiv-->
 	            		<a href="#" onclick="praktiskPil()"><span id="praktiskSpan">Praktisk Info</span></a>
 	      			</div><!--infoNavLeftBox-->
 	      			
 	      			<div class="infoNavBox">
 						<div class="infoPilDiv">
-							<img id="infoPilRight" alt="" src="images/pined.png" width="15" height="13" />
+							<img id="infoPilRight" alt="Ofte stillede spørgsmål" title="Ofte stillede spørgsmål" src="images/pined.png" width="15" height="13" />
 						</div><!--infoPilDiv-->
             			<a href="#" onclick="oftePil()"><span id="ofteSpan">Ofte Stillede Spørgsmål</span></a>
             	</div><!--infoNavLeftBox-->
@@ -120,7 +120,7 @@
                                 <p class="p1">Selvom vi opfordrer gæster til at komme udklædt, vil vi ikke udelukke gæster der ikke er udklædt, fra at deltage.</p><br />
 	                	<h4>Hvordan tilmelder jeg mig jeres konkurrence?</h4>
                         	<br />
-	                			<p class="p1">- Klik på banneret i højre side af skærmen og udfyld skemaet, eller klik her.</p><br />
+	                			<p class="p1">- Klik på banneret i højre side af skærmen og udfyld skemaet, <a href="#top" onclick="tilmeldOpen()">eller klik her.</a></p><br />
                 	</div><!--ofteDiv-->
                 	
                 </div><!--programwrapper-->

@@ -30,6 +30,11 @@ h2 {
 	margin-left: 1px;
 }
 
+.p1 a {
+	color:#FFF;
+	text-decoration:underline;
+}
+
 .hrgolden {
 	background-image:url(images/hr.png);
 	background-repeat:repeat-x;

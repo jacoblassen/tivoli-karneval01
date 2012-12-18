@@ -16,6 +16,7 @@
 </head>
 
 <body>
+<div id="top"></div><!--top-->
 <?php include_once("analyticstracking.php") ?>
 <?php
 	include 'tilmeld.html';
@@ -64,16 +65,16 @@
                 <div id="programwrapper">
                 	<div id="praktiskDiv">
 	                	<h4>Åbningstider</h4><br />
-	                	<div class="infoOpenBox"><p class="infoDag">Torsdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
-	                	<div class="infoOpenBox"><p class="infoDag">Fredag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
-	                	<div class="infoOpenBox"><p class="infoDag">Lørdag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-23.00</p></div><br />
-	                	<div class="infoOpenBox"><p class="infoDag">Søndag</p></div><div class="infoOpenBox"><p class="infoTid">10.00-24.00</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Torsdag</p></div><div class="infoOpenBox"><p class="p1">10.00-23.00</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Fredag</p></div><div class="infoOpenBox"><p class="p1">10.00-23.00</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Lørdag</p></div><div class="infoOpenBox"><p class="p1">10.00-23.00</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Søndag</p></div><div class="infoOpenBox"><p class="p1">10.00-24.00</p></div><br />
 	                	<br />
 	                	<hr class="hrgolden" />
 	                	<h4>Priser</h4><br />
-	                	<div class="infoOpenBox"><p class="infoDag">Entré barn 0- 7 år*</p></div><div class="infoOpenBox"><p class="infoTid">95Kr</p></div><br />
-	                	<div class="infoOpenBox"><p class="infoDag">Entré voksen 8 år+</p></div><div class="infoOpenBox"><p class="infoTid">Gratis</p></div><br />
-	                	<div class="infoOpenBox"><p class="infoDag">Gruppe entré,<br /> min. 15 personer</p></div><div class="infoOpenBox"><p class="infoTid">90Kr pr. person</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Entré barn 0- 7 år*</p></div><div class="infoOpenBox"><p class="p1">95Kr</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Entré voksen 8 år+</p></div><div class="infoOpenBox"><p class="p1">Gratis</p></div><br />
+	                	<div class="infoOpenBox"><p class="infoDag">Gruppe entré,<br /> min. 15 personer</p></div><div class="infoOpenBox"><p class="p1">90Kr pr. person</p></div><br />
 	                	<br />
 	                	<br />
 	                	<p class="p1">Hvis du møder op udklædt, vil du få 50% rabat på entré prisen.</p>
@@ -85,23 +86,41 @@
                 	
                 	<div id="ofteDiv">
 	                	<h4>Hvad er Tivoli karneval?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">- Tivoli holder karneval i forbindelse med fastelavn. Karnevallet bliver afholdt med fokus på, at folk skal klæde sig ud og slå sig løs. Der skal festes, snakkes, grines og danses.</p><br />
+                        		<p class="p1">Vi står for underholdningen, hvis du medbringer godt humør og et åbent sind.</p><br />
 	                	<h4>Har i en rabat-ordning?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">- Ja.</p><br />
+                        		<p class="p1">For grupper på min. 15 personer og over, koster entrébilletten 90kr pr. person.</p>
+                        		<p class="p1">For grupper på 15. personer og over, koster turpas 179kr. pr. person. </p><br />
 	                	<h4>Hvornår er karnevalet?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">Karnevallet finder sted fra torsdag d. 7 februar - søndag d. 10. februar.</p><br />
 	                	<h4>Hvor lang tid varer karnevalet?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">Åbningstiderne er torsdag - lørdag fra klokken 10-23 og søndag fra klokken 10-24.</p><br />
 	                	<h4>Skal man være udklædt for at komme?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">- Det er ikke et krav, at være udklædt for at deltage i karnevallet.</p><br />
+                                <p class="p1">Vi håber dog, at flest mulige vil lade sig rive med og slå sig løs, ved at klæde sig ud.</p>
+                                <p class="p1">Vi tilbyder 50% rabat ved køb af entrébilletten, hvis man ankommer udklædt.</p><br />
+                                
 	                	<h4>Er det normal pris under karnevalet?</h4>
-	                	<p class="p1">test</p><br />
-	                	<h4>Kan man købe kostume hos jer?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">- Ja*.</p><br />
+                                <p class="p1">*Ved at være festligt udklædt, tilbydes der 50% rabat på entrébilletten.</p><br />
+	                	<h4>Kan man købe kostume i Tivoli?</h4>
+                        	<br />
+	                			<p class="p1">- Nej*.</p><br />
+                                <p class="p1">*Det er muligt at købe masker og andet tilbehør, men ikke hele kostumer.</p><br />
 	                	<h4>Skal børnene være udklædt for at slå katten af tønden?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">- Nej.</p><br />
+                                <p class="p1">Selvom vi opfordrer gæster til at komme udklædt, vil vi ikke udelukke gæster der ikke er udklædt, fra at deltage.</p><br />
 	                	<h4>Hvordan tilmelder jeg mig jeres konkurrence?</h4>
-	                	<p class="p1">test</p><br />
+                        	<br />
+	                			<p class="p1">- Klik på banneret i højre side af skærmen og udfyld skemaet, eller klik her.</p><br />
                 	</div><!--ofteDiv-->
                 	
                 </div><!--programwrapper-->
@@ -114,6 +133,9 @@
         </div><!--sideframewrapper-->
     	
         <div id="framebottom">
+        	<div id="tiltoppen">
+        		<p><a class="tilTop" href="#top">Tilbage til toppen</a></p>
+        	</div><!--tiltoppen-->
         </div><!--framebottom-->
     
     </div><!--frame-->

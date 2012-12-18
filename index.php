@@ -3,7 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-		<title>Tivoli Karneval</title>
+		<link rel="shortcut icon" href="FaviconMaske" />
+        <title>Tivoli Karneval</title>
 		<link rel="stylesheet" href="cssreset.css" type="text/css" />
 		<link rel="stylesheet" href="stylesheet.css" type="text/css" />
         <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css' />

@@ -38,14 +38,14 @@
 						<div class="infoPilDiv">
 							<img id="infoPilLeft" alt="" src="images/pined.png" width="15" height="13" />
 						</div><!--infoPilDiv-->
-	            		<a href="#" onclick="hideshow(ofteDiv, praktiskDiv, infoPilLeft, infoPilRight)"><span id="praktiskSpan">Praktisk Info</span></a>
+	            		<a href="#" onclick="praktiskPil()"><span id="praktiskSpan">Praktisk Info</span></a>
 	      			</div><!--infoNavLeftBox-->
 	      			
 	      			<div class="infoNavBox">
 						<div class="infoPilDiv">
 							<img id="infoPilRight" alt="" src="images/pined.png" width="15" height="13" />
 						</div><!--infoPilDiv-->
-            			<a href="#" onclick="hideshow(praktiskDiv, ofteDiv, infoPilRight, infoPilLeft)"><span id="ofteSpan">Ofte Stilte Spørgsmål</span></a>
+            			<a href="#" onclick="oftePil()"><span id="ofteSpan">Ofte Stilte Spørgsmål</span></a>
             	</div><!--infoNavLeftBox-->
             </div><!--frametophtag-->
         </div><!--frametop-->

@@ -23,9 +23,10 @@ h2 {
 
 .p1 {
 	color:white;
-	font-size:18px;
+	font-size:14px;
 	font-weight:400;
 	font-family:'georgia', serif;
+	line-height: 17px;
 }
 
 .hrgolden {
@@ -305,6 +306,7 @@ h2 {
 	font-family: 'georgia', serif;
 	font-size:14px;
 	color:#fff;
+	line-height: 17px;
 }
 
 .nyhedtext ul, li {
@@ -385,6 +387,24 @@ h2 {
 }
 
 .contacttext2 a {
+	color: white;
+	line-height: 20px;
+	font-family: Georgia, serif;
+}
+
+.contacttext2 a:visited {
+	color: white;
+	line-height: 20px;
+	font-family: Georgia, serif;
+}
+
+.contacttext1 a {
+	color: white;
+	line-height: 20px;
+	font-family: Georgia, serif;
+}
+
+.contacttext1 a:visited {
 	color: white;
 	line-height: 20px;
 	font-family: Georgia, serif;

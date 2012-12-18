@@ -33,9 +33,20 @@
 <div id="master">
   <div id="frame">
 		<div id="frametop">
-				<div class="frametophtag">
-            	<a href="#" onClick="hideshow(ofteDiv, praktiskDiv, praktiskSpan, ofteSpan)"><span id="praktiskSpan">Praktisk Info</span></a>
-            	<a href="#" onClick="hideshow(praktiskDiv, ofteDiv, ofteSpan, praktiskSpan)"><span id="ofteSpan">Ofte Stilte Spørgsmål</span></a>
+				<div class="frametophtag" id="infoFrameTop">
+					<div class="infoNavBox">
+						<div class="infoPilDiv">
+							<img id="infoPilLeft" src="images/pined.png" width="15" height="13" />
+						</div><!--infoPilDiv-->
+	            		<a href="#" onClick="hideshow(ofteDiv, praktiskDiv, infoPilLeft, infoPilRight)"><span id="praktiskSpan">Praktisk Info</span></a>
+	      			</div><!--infoNavLeftBox-->
+	      			
+	      			<div class="infoNavBox">
+						<div class="infoPilDiv">
+							<img id="infoPilRight" src="images/pined.png" width="15" height="13" />
+						</div><!--infoPilDiv-->
+            			<a href="#" onClick="hideshow(praktiskDiv, ofteDiv, infoPilRight, infoPilLeft)"><span id="ofteSpan">Ofte Stilte Spørgsmål</span></a>
+            	</div><!--infoNavLeftBox-->
             </div><!--frametophtag-->
         </div><!--frametop-->
         

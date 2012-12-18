@@ -139,6 +139,6 @@ $(document).ready(function() {
 function hideshow(hide, show, underline, none){
 	hide.style.display = "none";
 	show.style.display = "block";
-	underline.style.textDecoration = "underline";
-	none.style.textDecoration = "none";
+	underline.style.display = "inline-block";
+	none.style.display = "none";
 }

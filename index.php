@@ -6,7 +6,7 @@
 		<title>Tivoli Karneval</title>
 		<link rel="stylesheet" href="cssreset.css" type="text/css" />
 		<link rel="stylesheet" href="stylesheet.css" type="text/css" />
-        <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css' />
         <link href="css/quake.slider.css" rel="stylesheet" type="text/css" />
         <link href="skins/plain/quake.skin.css" rel="stylesheet" type="text/css" />
         <script src="js/jquery.min.js" type="text/javascript"></script>

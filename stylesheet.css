@@ -107,6 +107,16 @@ h2 {
 	display:none;
 }
 
+.navA {
+	display: inline;
+	list-style-type: none;
+	margin: 20px 15px 0 15px;
+	font-family: 'Old Standard TT', serif;
+	color:#e5ddb9;
+	font-size:20px;
+	font-weight:600;
+}
+
 .navText p	{
 	display: inline;
 	list-style-type: none;
@@ -458,6 +468,25 @@ h2 {
 	padding:5px 0 0 0;
 }
 
-#praktiskSpan	{
-	text-decoration:underline;
+.infoNavBox	{
+	display:inline-block;
+	width:auto;
+}
+
+.infoPilDiv	{
+	width:auto;
+	margin-bottom:5px;
+}
+
+#infoFrameTop	{
+	margin-top:40px;
+	height:auto;
+}
+
+#infoPilLeft	{
+	display:inline-block;
+}
+
+#infoPilRight	{
+	display:none;
 }

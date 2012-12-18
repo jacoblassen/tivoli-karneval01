@@ -26,7 +26,8 @@ h2 {
 	font-size:14px;
 	font-weight:400;
 	font-family:'georgia', serif;
-	line-height: 17px;
+	line-height: 18px;
+	margin-left: 1px;
 }
 
 .hrgolden {
@@ -306,7 +307,7 @@ h2 {
 	font-family: 'georgia', serif;
 	font-size:14px;
 	color:#fff;
-	line-height: 17px;
+	line-height: 18px;
 }
 
 .nyhedtext ul, li {

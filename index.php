@@ -226,9 +226,9 @@
                		</div><!--sideframewrapper-->
                 
                 	<div id="framebottom">
-                    <div id="tiltoppen">
-        							<p><a class="tilTop" href="#top">Tilbage til toppen</a></p>
-        						</div><!--tiltoppen-->
+                    	<div id="tiltoppen">
+        					<p><a class="tilTop" href="#top">Tilbage til toppen</a></p>
+        				</div><!--tiltoppen-->
                 	</div><!--framebottom-->
             
           </div><!--frame-->

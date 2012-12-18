@@ -45,7 +45,7 @@
         
         	<div class="rammecontent">
             	<div id="contactform">
-            		<form name="input" action="email.php" method="post">
+            		<form name="input" onsubmit="return kontaktvalidate()" action="email.php" method="post">
                     <p>Dit navn:</p><input type="text" name="custname" />
                     <br />
 					<p>Din egen e-mail:</p><input type="text" name="custemail" />

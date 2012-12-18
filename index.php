@@ -41,31 +41,33 @@
 	</head>
 
 	<body>
+    	<div id="top">
+    	</div>
 	
 
 	
-	<?php
-		include 'tilmeld.html';
-		include 'header.html';
-	?> 
+		<?php
+			include 'tilmeld.html';
+			include 'header.html';
+		?> 
     
-    <script type="text/javascript">
-    	var id = "index";
-    	document.getElementById(id+'A').style.display = "block";
-    </script>
+    	<script type="text/javascript">
+    		var id = "index";
+    		document.getElementById(id+'A').style.display = "block";
+    	</script>
     
-    <?php
-		include 'lady.html'
-	?>
-    <div id="master">
-		<div id="featherdiv">    	
-            <div class="quake-slider">
-                <div class="quake-slider-images">
-                    <a href="#linkkatten"><img src="images/fastelavn01.jpg" alt="Slå katten af tønden for de små, i Tivoli." /></a>
-                    <a href="#linkaarskort"><img src="images/tivoliaarskort.jpg" alt="Tilmeld dig karnevalsfesten i Tivoli med chance for at vinde 2 Tivoli årskort." /></a>
-                    <a href="#linkcostume"><img src="images/costumes01.jpg" alt="Kom og vær udklædt til Tivolis karneval, der er flotte priser at vinde." /></a>
-                    <a href="#linkudklaedning"><img src="images/udklaedning03.jpg" alt="Tivoli har indgået samarbejde med Udklaedning.dk" /></a>
-                </div>
+   		<?php
+			include 'lady.html'
+		?>
+    	<div id="master">
+			<div id="featherdiv">    	
+            	<div class="quake-slider">
+                	<div class="quake-slider-images">
+                    	<a href="#linkkatten"><img src="images/fastelavn01.jpg" alt="Slå katten af tønden for de små, i Tivoli." /></a>
+                    	<a href="#linkaarskort"><img src="images/tivoliaarskort.jpg" alt="Tilmeld dig karnevalsfesten i Tivoli med chance for at vinde 2 Tivoli årskort." /></a>
+                    	<a href="#linkcostume"><img src="images/costumes01.jpg" alt="Kom og vær udklædt til Tivolis karneval, der er flotte priser at vinde." /></a>
+                    	<a href="#linkudklaedning"><img src="images/udklaedning03.jpg" alt="Tivoli har indgået samarbejde med Udklaedning.dk" /></a>
+                </div><!--quake-slider-images-->
                 
                 <div class="quake-slider-captions quake-slider-caption-container">
                     <div class="quake-slider-caption">
@@ -208,12 +210,17 @@
                             </div><!--nyhedwrapper-->
                             
                             
+        						
+        					
                 
                 		</div><!--rammemiddle-->
                     
                		</div><!--sideframewrapper-->
                 
                 	<div id="framebottom">
+                    <div id="tiltoppen">
+        							<a href="#top"><p>Tilbage til toppen</p></a>
+        						</div><!--tiltoppen-->
                 	</div><!--framebottom-->
             
           </div><!--frame-->

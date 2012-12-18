@@ -3,6 +3,7 @@
 	$email = $_POST['custemail'];
 	$message = $_POST['message'];
 	
+	//sender brugeren tilbage til en "splashside"
 	$headers = "From: " . $email . "\r\n";
 	$headers .= "Reply-To: ". $email . "\r\n";
 	$headers .= "MIME-Version: 1.0\r\n";

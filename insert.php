@@ -23,7 +23,7 @@
 				//return;
 			//}
 		//}
-		
+	//checker om post nr findes i databasen	
 	$query = "SELECT COUNT(1) FROM zip WHERE zip = ?";
 	$stmt = $link->prepare($query);
 	$stmt->bind_param('i', $zip);
@@ -59,7 +59,7 @@
 		echo "email er skrevet i forkert format <br />";
 		$error = 2;
 	}	
-	
+	//checker om emailen allerede findes i databasen
 	$query = "SELECT COUNT(1) FROM bruger WHERE email = ?";
 	$stmt = $link->prepare($query);
 	$stmt->bind_param('s', $email);
@@ -73,7 +73,7 @@
 			echo "Emailen findes allerede i database<br />";
 			$error = 2;
 		}
-		
+		//checker om addressen allerede findes i databasen
 		$query = "SELECT COUNT(1) FROM bruger WHERE addresse = ?";
 		$stmt = $link->prepare($query);
 		$stmt->bind_param('s', $addr);
@@ -98,11 +98,14 @@
 		return;
 	}
 	
+	
+	//inserter data i databasen
 	$stmt = $link->prepare("INSERT INTO bruger (fornavn, efternavn, addresse, email, postnr, nyhedsbrev) VALUES (?,?,?,?,?,?)");
 	$stmt->bind_param("ssssis", $fname, $lname, $addr, $email, $zip, $news);
 	$stmt->execute();
 	
 	if($error == 1){
+	//konstruere header og besked til en HTML email
 	$headers = "From: " . $sender . "\r\n";
 	$headers .= "Reply-To: ". $sender . "\r\n";
 	$headers .= "CC: susan@example.com\r\n";
@@ -115,8 +118,9 @@
 	  </body>
 	</html>';
 	//sender email efter indsætning
-	//mail($email, "Karneval i Tivoli", "$message", "$headers");
+	mail($email, "Karneval i Tivoli", "$message", "$headers");
 	
+	//sender brugeren tilbage til en "splashside"
 	header('Location: landing.php');
 	
 	}

@@ -1,9 +1,10 @@
+//åbner popup vindu med tilmeldings formularen
 function tilmeldOpen()	{
 	document.getElementById("tilmeldMaster").style.display = "block"
 	
 	var body = document.body,
     html = document.documentElement;
-
+	//sætter højden på tilmeldings masteren til at være samme højde som html'en
 	var height = Math.max( body.scrollHeight, body.offsetHeight, 
                        html.clientHeight, html.scrollHeight, html.offsetHeight );
                        
@@ -14,15 +15,14 @@ function tilmeldClose()	{
 	document.getElementById("tilmeldMaster").style.display = "none"
 }
 
+//prevents bubble effects from parrent elements from triggering
 function tilmeldProg(ev)	{
 		ev.stopPropagation();
 }
 
 
-//Validation
-
+//validere tilmeldings formularen
 function validateForm()	{
-	
 	document.forms['form']['fname'].style.backgroundColor = "#fff";
 	document.forms['form']['lname'].style.backgroundColor = "#fff";
 	document.forms['form']['email'].style.backgroundColor = "#fff";
@@ -71,6 +71,7 @@ function validateForm()	{
 	
 }
 
+//validere kontakt formularen
 function kontaktvalidate()	{
 	document.forms['input']['custname'].style.backgroundColor = "#fff";
 	document.forms['input']['custemail'].style.backgroundColor = "#fff";
@@ -153,6 +154,7 @@ function togglefebIIII(){
 		febIIII = 2;
 	}
 }
+
 
 $(document).ready(function() {
 	$('#febI').hide();

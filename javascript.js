@@ -146,9 +146,13 @@ function hideshow(hide, show, underline, none){
 function praktiskPil()	{
 	document.getElementById("infoPilLeft").style.display = "inline-block"
 	document.getElementById("infoPilRight").style.display = "none"
+	document.getElementById("praktiskDiv").style.display = "block"
+	document.getElementById("ofteDiv").style.display = "none"
 }
 
 function oftePil()	{
 	document.getElementById("infoPilRight").style.display = "inline-block"
 	document.getElementById("infoPilLeft").style.display = "none"
+	document.getElementById("praktiskDiv").style.display = "none"
+	document.getElementById("ofteDiv").style.display = "block"
 }

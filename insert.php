@@ -111,16 +111,11 @@
 	
 	$message = '<html>
   	<body bgcolor="#DCEEFC">
-   		<center>
-	        <b>Looool!!! I am reciving HTML email......</b> <br>
-	        <font color="red">Thanks Mohammed!</font> <br>
-	        <a href="http://www.maaking.com/">* maaking.com</a>
-	    	</center>
-	      <br><br>*** Now you Can send HTML Email <br> Regards<br>MOhammed Ahmed - Palestine
+   		<p>Tak for din tilmelding i tivolis konkurrence og 2 entre billeter til karneval i tiovoli. </p>
 	  </body>
 	</html>';
 	//sender email efter indsætning
-	//mail($email, "Karneval i Tivoli", "$message", "$headers");
+	mail($email, "Karneval i Tivoli", "$message", "$headers");
 	
 	header('Location: landing.php');
 	

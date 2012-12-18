@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Program for Tivolis karneval</title>
-	<meta name="description" content="Programplan for karneval i Tivoli." />
+	<meta name="description" content="Programplan for karneval i Tivoli. Dette kommer til at ske 7. februar - 10. februar 2012." />
 	<meta name="keywords" content="Tivoli, karneval, program, plan, " />
 	<meta name="author" content="Jens Peter schandorff"
 	<meta name="robots" content="index, follow" />

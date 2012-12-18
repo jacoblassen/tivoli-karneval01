@@ -2,7 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Kontakt Tivolis karnevalsansvarlige</title>
+	<link rel="shortcut icon" href="images/favicon.ico" />
+    <title>Kontakt Tivolis karnevalsansvarlige</title>
 	<meta name="description" content="Kontakt Tivoli - Kontakt Tivolis karnevalsansvarlige - Send os en E-mail" />
 	<meta name="keywords" content="Tivoli, karneval, kontakt, kontakt Tivolis, Patrick Brockmann, Jacob Lassen, Jens Schandorff, Mike Simony, email, e-mail," />
 	<meta name="author" content="Jens Peter schandorff"

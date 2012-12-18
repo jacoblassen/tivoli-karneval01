@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+	
+		<loc>http://www.jacob-lassen.dk/projekt/tivoli/</loc>
+		
+		<lastmod>2012-12-18</lastmod>
+		
+		<priority>0.9</priority>
+
+	</url>
+	
+	<url>
+		
+		<loc>http://www.jacob-lassen.dk/projekt/tivoli/info.php/</loc>
+		
+		<lastmod>2012-12-18</lastmod>
+		
+		<priority>0.5</priority>
+		
+	</url>
+	
+	<url>
+		
+		<loc>http://www.jacob-lassen.dk/projekt/tivoli/program.php/</loc>
+		
+		<lastmod>2012-12-18</lastmod>
+		
+		<priority>0.5</priority>
+		
+	</url>
+	
+	<url>
+		
+		<loc>http://www.jacob-lassen.dk/projekt/tivoli/kontakt.php/</loc>
+		
+		<lastmod>2012-12-18</lastmod>
+		
+		<priority>0.5</priority>
+		
+	</url>
+
+</urlset>

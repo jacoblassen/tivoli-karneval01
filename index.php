@@ -41,6 +41,7 @@
 	</head>
 
 	<body>
+    <?php include_once("analyticstracking.php") ?>
     	<div id="top">
     	</div>
 	
@@ -95,10 +96,10 @@
                         <br />
                         <p class="p1"> - Op til 20% rabat hos Udklaedning.dk.</p>
                     </div><!--quake-slider-caption-->
-                	</div><!--quake-slider-captions quake-slider-caption-container-->
+                </div><!--quake-slider-captions quake-slider-caption-container-->
                 
-           	</div>
-    	</div><!--featherdiv-->
+           	</div><!--featherdiv-->
+    	
 	
 		
         
@@ -109,16 +110,16 @@
            			</div><!--frametophtag-->
                 </div><!--frametop-->
                 
-                    <div id="sideframewrapper">
-                    
-                        <div id="rammemiddle">
-                        
-                        <div id="linkkatten"></div>
-                        	<div class="nyhedwrapper">
-                            	<div class="nyhedimage"><img src="images/fastelavn02.jpg" alt="Slå katten af tønden i Tivoli." />
-                                </div><!--nyhedimage-->
+                <div id="sideframewrapper">
+                	<div id="rammemiddle">
+                    	<div id="linkkatten">
+                        </div><!--linkkatten-->
+                        <div class="nyhedwrapper">
+                           	<div class="nyhedimage">
+                               	<img src="images/fastelavn02.jpg" alt="Slå katten af tønden i Tivoli." />
+                            </div><!--nyhedimage-->
                                 
-                                <div class="nyhedtext">
+                        	    <div class="nyhedtext">
                                 	<p>Fastelavn er en gammel tradition i Danmark og en tid, hvor børn klæder sig ud og har det sjovt. Vi, her i Tivoli, vil gerne være med til at fejre traditionen ved at invitere til at slå katten af tønden.</p>
                                 	<br />
                                 
@@ -132,18 +133,20 @@
                                     	<p>Dato 16.12.2012</p>
                                     </div><!--timestamp-->
                                 </div><!--nyhedtext-->
-                            </div><!--nyhedwrapper-->
+                        </div><!--nyhedwrapper-->
                 
                 			<hr class="hrgolden" />
                 			
-                			<div id="linkaarskort"></div>
+                			<div id="linkaarskort">
+                            </div><!--linkaarskort-->
                             
                             <div class="nyhedheadline">
-                            <h1>Deltag og vind!</h1>
+                            	<h1>Deltag og vind!</h1>
                             </div><!--nyhedheadline-->
 
                         	<div class="nyhedwrapper">
-                            	<div class="nyhedimage" onclick="tilmeldOpen()"><a href="#"><img src="images/tivoliaarskort02.jpg" alt="Vind et årskort til Tivoli" /></a>
+                            	<div class="nyhedimage" onclick="tilmeldOpen()">
+                                	<a href="#"><img src="images/tivoliaarskort02.jpg" alt="Vind et årskort til Tivoli" /></a>
                                 </div><!--nyhedimage-->
                                 
                                 <div class="nyhedtext">
@@ -161,14 +164,16 @@
                             
                             <hr class="hrgolden" />
                             
-                            <div id="linkcostume"></div>
+                            <div id="linkcostume">
+                            </div><!--linkcostume-->
                             
                             <div class="nyhedheadline">
-                            <h1>Vær udklædt og vind!</h1>
+                            	<h1>Vær udklædt og vind!</h1>
                             </div><!--nyhedheadline-->
                             
                             <div class="nyhedwrapper">
-                            	<div class="nyhedimage"><img src="images/costumes02.jpg" alt="Kom udklædt til karneval i Tivoli og vind!" />
+                            	<div class="nyhedimage">
+                                	<img src="images/costumes02.jpg" alt="Kom udklædt til karneval i Tivoli og vind!" />
                                 </div><!--nyhedimage-->
                                 
                                 <div class="nyhedtext">
@@ -190,14 +195,16 @@
                             
                             <hr class="hrgolden" />
                             
-                            <div id="linkudklaedning"></div>
+                            <div id="linkudklaedning">
+                            </div><!--linkudklaedning-->
                             
                             <div class="nyhedheadline">
-                            <h1>Tivoli og Udklaedning.dk</h1>
+                            	<h1>Tivoli og Udklaedning.dk</h1>
                             </div><!--nyhedheadline-->
                             
                             <div class="nyhedwrapper">
-                            	<div class="nyhedimage"><a href="http://www.udklaedning.dk" target="_blank"><img src="images/udklaedning02.jpg" alt="Kom udklædt til karneval i Tivoli og vind!" /></a>
+                            	<div class="nyhedimage">
+                                <a href="http://www.udklaedning.dk" target="_blank"><img src="images/udklaedning02.jpg" alt="Kom udklædt til karneval i Tivoli og vind!" /></a>
                                 </div><!--nyhedimage-->
                                 
                                 <div class="nyhedtext">
@@ -209,11 +216,7 @@
                                 </div><!--nyhedtext-->
                             </div><!--nyhedwrapper-->
                             
-                            
-        						
-        					
-                
-                		</div><!--rammemiddle-->
+                    </div><!--rammemiddle-->
                     
                		</div><!--sideframewrapper-->
                 

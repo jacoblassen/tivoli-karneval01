@@ -50,9 +50,15 @@
                    
                             <p id="febI" class="p1">
                             
-                            Kl. 12:00 åbnes dørene for karnevalet<br	/><br	/>
-                            Kl. 12:15 kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
-                            Kl. 12:45 Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 12:00 - åbnes dørene for karnevalet<br	/><br	/>
+                            Kl. 12:15 - kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
+                            Kl. 12:45 - Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 13:30 - Slås der katten af tønden for børn ved Tivoli's Koncertsal<br /><br />
+                            Kl. 14.45 - Slås der katten af tønden for voksne ved Tivoli's Koncertsal<br /><br />
+                            kl. 16.00 - Dagens udklædning bliver kåret på den store plæne<br /><br />
+                            Kl. 19.00 - Show på scenen med professionelle dansere m.m.<br /><br />
+                            Kl. 20.00 - Dans på den store scene (alle er velkomne) med fakler og hele balladen!<br /><br />
+                             
                             
                             </p>
                             
@@ -65,9 +71,14 @@
                             
                             <p id="febII" class="p1">
                             
-                            Kl. 12:00 åbnes dørene for karnevalet<br	/><br	/>
-                            Kl. 12:15 kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
-                            Kl. 12:45 Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 12:00 - Åbnes dørene for karnevalet<br	/><br	/>
+                            Kl. 12:15 - Kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
+                            Kl. 12:45 - Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 13:30 - Slås der katten af tønden for børn ved Tivoli's Koncertsal<br /><br />
+                            Kl. 14.45 - Slås der katten af tønden for voksne ved Tivoli's Koncertsal<br /><br />
+                            kl. 16.00 - Dagens udklædning bliver kåret på den store plæne<br /><br />
+                            Kl. 19.00 - Show på scenen med professionelle dansere m.m.<br /><br />
+                            Kl. 20.00 - Dans på den store scene (alle er velkomne) med fakler og hele balladen!<br /><br />
                             
                             </p> 
                             <br	/><br	/>
@@ -79,9 +90,14 @@
                             
                             <p id="febIII" class="p1">
                             
-                            Kl. 12:00 åbnes dørene for karnevalet<br	/><br	/>
-                            Kl. 12:15 kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
-                            Kl. 12:45 Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 12:00 - Åbnes dørene for karnevalet<br	/><br	/>
+                            Kl. 12:15 - Kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
+                            Kl. 12:45 - Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 13:30 - Slås der katten af tønden for børn ved Tivoli's Koncertsal<br /><br />
+                            Kl. 14.45 - Slås der katten af tønden for voksne ved Tivoli's Koncertsal<br /><br />
+                            kl. 16.00 - Dagens udklædning bliver kåret på den store plæne<br /><br />
+                            Kl. 19.00 - Show på scenen med professionelle dansere m.m.<br /><br />
+                            Kl. 20.00 - Dans på den store scene (alle er velkomne) med fakler og hele balladen!<br /><br />
                             
                             </p> 
                             <br	/><br	/>
@@ -93,9 +109,13 @@
                             
                             <p id="febIIII" class="p1">
                             
-                            Kl. 12:00 åbnes dørene for karnevalet<br	/><br	/>
-                            Kl. 12:15 kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
-                            Kl. 12:45 Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 12:00 - Åbnes dørene for karnevalet<br	/><br	/>
+                            Kl. 12:15 - Kan man komme ind i glassalen og lave sine egen personlige maske<br	/><br	/>
+                            Kl. 12:45 - Spiller Stortrommen og klapperne på den store scene<br	/><br	/>
+                            Kl. 13:30 - Slås der katten af tønden for børn ved Tivoli's Koncertsal<br /><br />
+                            Kl. 14.45 - Slås der katten af tønden for voksne ved Tivoli's Koncertsal<br /><br />
+                            kl. 16.00 - Dagens udklædning bliver kåret på den store plæne<br /><br />
+                            Kl. 19.00 - Kæmpe afslutnings show på den store scene<br /><br />
                             
                             </p>
                        

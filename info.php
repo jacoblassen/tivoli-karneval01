@@ -2,7 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Info om Tivolis karneval - Åbningstider, priser og spørgsmål.</title>
+	<link rel="shortcut icon" href="images/favicon.ico" />
+    <title>Info om Tivolis karneval - Åbningstider, priser og spørgsmål.</title>
 	<meta name="description" content="Info om karneval i Tivoli. Priser og praktisk info om karnevallet og ofte stillede spørgsmål." />
 	<meta name="keywords" content="Tivoli, karneval, åbningstider, åbningstid, information, info, praktisk, priser, pris, spørgsmål, Entré, entré, børn, voksen, gruppe" />
 	<meta name="author" content="Jens Peter schandorff"

@@ -115,7 +115,7 @@
 	  </body>
 	</html>';
 	//sender email efter indsætning
-	mail($email, "Karneval i Tivoli", "$message", "$headers");
+	//mail($email, "Karneval i Tivoli", "$message", "$headers");
 	
 	header('Location: landing.php');
 	

@@ -43,8 +43,8 @@
                 	    
                 		<div id="programwrapper">
                    
-                			<h2 onClick="togglefebI()">7. febuar</h2>
-                			<span id="febIspan" onClick="togglefebI()">Vis program</span>
+                			<h2 onclick="togglefebI()">7. febuar</h2>
+                			<span id="febIspan" onclick="togglefebI()">Vis program</span>
                 			<br	/> <br	/>
                      
                    
@@ -65,8 +65,8 @@
                             <br	/><br	/>
                       
                             
-                            <h2 onClick="togglefebII()">8. febuar</h2>
-                            <span id="febIIspan" onClick="togglefebII()">Vis program</span>
+                            <h2 onclick="togglefebII()">8. febuar</h2>
+                            <span id="febIIspan" onclick="togglefebII()">Vis program</span>
                             <br	/> <br	/>
                             
                             <p id="febII" class="p1">
@@ -84,8 +84,8 @@
                             <br	/><br	/>
                             
                             
-                            <h2 onClick="togglefebIII()">9. febuar</h2>
-                            <span id="febIIIspan" onClick="togglefebIII()">Vis program</span>
+                            <h2 onclick="togglefebIII()">9. febuar</h2>
+                            <span id="febIIIspan" onclick="togglefebIII()">Vis program</span>
                             <br	/> <br	/>
                             
                             <p id="febIII" class="p1">
@@ -103,8 +103,8 @@
                             <br	/><br	/>
                             
                             
-                            <h2 onClick="togglefebIIII()">10. febuar</h2>
-                            <span id="febIIIIspan" onClick="togglefebIIII()">Vis program</span>
+                            <h2 onclick="togglefebIIII()">10. febuar</h2>
+                            <span id="febIIIIspan" onclick="togglefebIIII()">Vis program</span>
                             <br	/> <br	/>
                             
                             <p id="febIIII" class="p1">

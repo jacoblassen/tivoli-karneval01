@@ -40,13 +40,13 @@
         	<div class="rammecontent">
             	<div id="contactform">
             		<form name="input" action="email.php" method="post">
-                    <p>Dit navn:</p><input type="text" name="custname">
+                    <p>Dit navn:</p><input type="text" name="custname" />
                     <br />
-					<p>Din egen e-mail:</p><input type="text" name="custemail">
+					<p>Din egen e-mail:</p><input type="text" name="custemail" />
                     <br />
                     <p>Indhold:</p><textarea rows="4" cols="53" name="message"></textarea>
                     <br />
-					<input type="submit" value="Send">
+					<input type="submit" value="Send" />
 					</form>
                 </div><!--contactform-->
             </div><!--rammecontent-->
@@ -56,13 +56,13 @@
         	<div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
-                		<img src="images/patrick.jpg" height="150px" width="150px" />
+                		<img src="images/patrick.jpg" alt="" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 	<div class="contacttext1">
                     	<h1>Patrick Brockmann</h1>
                         <p>Underdirektør, Markedsføring.</p>
                         <p>4875 8957</p>
-                        <a href="mailto:pabr@tivoli.dk"><p>pabr@tivoli.dk</p></a>
+                        <p><a href="mailto:pabr@tivoli.dk">pabr@tivoli.dk</a></p>
                 	</div><!--contacttext-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
@@ -75,10 +75,10 @@
                     	<h1>Jens Peter Schandorff</h1>
                         <p>Strategisk Kommerciel Ansvarlig.</p>
                         <p>5265 4585</p>
-                        <a href="mailto:Jps@tivoli.dk"><p>Jps@tivoli.dk</p></a>
+                        <p><a href="mailto:Jps@tivoli.dk">Jps@tivoli.dk</a></p>
                 	</div><!--contacttext-->
                     <div class="contactimage2">
-                		<img src="images/jens.jpg" height="150px" width="150px" />
+                		<img src="images/jens.jpg" alt="" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
@@ -88,13 +88,13 @@
             <div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
-                		<img src="images/mike.jpg" height="150px" width="150px" />
+                		<img src="images/mike.jpg" alt="" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 	<div class="contacttext1">
                     	<h1>Mike Simony</h1>
                         <p>Key Account Manager.</p>
                         <p>5975 5274</p>
-                        <a href="mailto:Misi@tivoli.dk"><p>Misi@tivoli.dk</p></a>
+                        <p><a href="mailto:Misi@tivoli.dk">Misi@tivoli.dk</a></p>
                 	</div><!--contacttext-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
@@ -107,10 +107,10 @@
                     	<h1>Jacob Lassen</h1>
                         <p>Direktør for Sikkerhed.</p>
                         <p>8924 3548</p>
-                        <a href="mailto:Jala@tivoli.dk"><p>Jala@tivoli.dk</p></a>
+                        <p><a href="mailto:Jala@tivoli.dk">Jala@tivoli.dk</a></p>
                     </div><!--contacttext-->
                     <div class="contactimage2">
-                		<img src="images/jacob.jpg" width="150px" />
+                		<img src="images/jacob.jpg" alt="" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->

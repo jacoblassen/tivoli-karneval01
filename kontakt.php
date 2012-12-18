@@ -56,7 +56,7 @@
         	<div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
-                		<img src="images/285414_150347188373799_4268644_n.jpg" height="150px" width="150px" />
+                		<img src="images/patrick.jpg" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 	<div class="contacttext1">
                     	<h1>Patrick Brockmann</h1>
@@ -78,7 +78,7 @@
                         <a href="mailto:Jps@tivoli.dk"><p>Jps@tivoli.dk</p></a>
                 	</div><!--contacttext-->
                     <div class="contactimage2">
-                		<img src="images/577900_10200102803360939_1627181608_n.jpg" height="150px" width="150px" />
+                		<img src="images/jens.jpg" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->
@@ -88,7 +88,7 @@
             <div class="rammecontent">
             	<div class="contactwrapper">
                		<div class="contactimage1">
-                		<img src="images/311_24572588340_8483_n.jpg" height="150px" width="150px" />
+                		<img src="images/mike.jpg" height="150px" width="150px" />
                 	</div><!--contactimage-->
                 	<div class="contacttext1">
                     	<h1>Mike Simony</h1>
@@ -110,7 +110,7 @@
                         <a href="mailto:Jala@tivoli.dk"><p>Jala@tivoli.dk</p></a>
                     </div><!--contacttext-->
                     <div class="contactimage2">
-                		<img src="images/16954_390441190073_1680772_n.jpg" width="150px" />
+                		<img src="images/jacob.jpg" width="150px" />
                 	</div><!--contactimage-->
                 </div><!--contactwrapper-->
             </div><!--rammecontent-->

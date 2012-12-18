@@ -136,8 +136,9 @@ $(document).ready(function() {
 	$('#ofteDiv').hide();
 });
 
-function hideshow(hide, show){
-	hide.style.display = "none"
-	show.style.display = "block"
-
+function hideshow(hide, show, underline, none){
+	hide.style.display = "none";
+	show.style.display = "block";
+	underline.style.textDecoration = "underline";
+	none.style.textDecoration = "none";
 }

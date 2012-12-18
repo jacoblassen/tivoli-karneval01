@@ -107,6 +107,16 @@ h2 {
 	display:none;
 }
 
+.navA {
+	display: inline;
+	list-style-type: none;
+	margin: 20px 15px 0 15px;
+	font-family: 'Old Standard TT', serif;
+	color:#e5ddb9;
+	font-size:20px;
+	font-weight:600;
+}
+
 .navText p	{
 	display: inline;
 	list-style-type: none;

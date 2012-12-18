@@ -457,6 +457,25 @@ h2 {
 	padding:5px 0 0 0;
 }
 
-#praktiskSpan	{
-	text-decoration:underline;
+.infoNavBox	{
+	display:inline-block;
+	width:auto;
+}
+
+.infoPilDiv	{
+	width:auto;
+	margin-bottom:5px;
+}
+
+#infoFrameTop	{
+	margin-top:40px;
+	height:auto;
+}
+
+#infoPilLeft	{
+	display:inline-block;
+}
+
+#infoPilRight	{
+	display:none;
 }

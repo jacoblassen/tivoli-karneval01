@@ -97,7 +97,7 @@
                     </div><!--quake-slider-caption-->
                 	</div><!--quake-slider-captions quake-slider-caption-container-->
                 
-           	</div>
+           	
     	</div><!--featherdiv-->
 	
 		
@@ -219,7 +219,7 @@
                 
                 	<div id="framebottom">
                     <div id="tiltoppen">
-        							<a href="#top"><p>Tilbage til toppen</p></a>
+        							<p><a class="tilTop" href="#top">Tilbage til toppen</a></p>
         						</div><!--tiltoppen-->
                 	</div><!--framebottom-->
             

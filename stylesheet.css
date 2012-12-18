@@ -248,7 +248,14 @@ h2 {
 	float: left;
 }
 
-#tiltoppen a {
+#tiltoppen p {
+	font-family: 'Old Standard TT', serif;
+	text-align:center;
+	color:#e5ddb9;
+	text-decoration:underline;
+}
+
+.tilTop	{
 	font-family: 'Old Standard TT', serif;
 	text-align:center;
 	color:#e5ddb9;

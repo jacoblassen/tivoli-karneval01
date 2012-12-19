@@ -160,7 +160,7 @@
                                 <div class="nyhedtext">
                                 	<p>I forbindelse med karnevallet, afholder vi en konkurrence med chance for at vinde 2 årskort. Der vil blive trukket lod hver uge op til karnevallet d. 7-10. Feb. Så jo før du tilmelder dig, jo større er chancen for at vinde et års eventyr i Tivoli.</p>
                                 	<br />
-                                	<p>Deltag i konkurrencen ved at trykke på fanen ude i højre side, eller billedet ovenfor.</p>
+                                	<p><a href="#top" onclick="tilmeldOpen()">Deltag i konkurrencen ved at trykke ved at trykke her.</a></p>
                                 	
                                 
                                 	<div class="timestamp">

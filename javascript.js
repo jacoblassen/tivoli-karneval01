@@ -2,9 +2,9 @@
 function tilmeldOpen()	{
 	document.getElementById("tilmeldMaster").style.display = "block"
 	
+	//sætter højden på tilmeldings masteren til at være samme højde som html'en
 	var body = document.body,
     html = document.documentElement;
-	//sætter højden på tilmeldings masteren til at være samme højde som html'en
 	var height = Math.max( body.scrollHeight, body.offsetHeight, 
                        html.clientHeight, html.scrollHeight, html.offsetHeight );
                        

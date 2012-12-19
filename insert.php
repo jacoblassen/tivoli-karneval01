@@ -8,21 +8,6 @@
 	$error = 1;
 	$sender = "karneval@tivoli.dk";
 	
-	//$query = "SELECT email, addresse FROM bruger WHERE email = '".$email."' OR addresse = '".$addr."'";
-	//$result = $link->query($query);
-		//while($row = $result->fetch_assoc()){
-			//if($row['email'] == $email){
-				//$error = 2;
-				//echo $row['email']."<br />".$email;
-				//echo "e-mailen findes";
-				//return;
-			//}
-			//if($row['addresse'] == $addr){
-				//$error = 2;
-				//echo "addressen er allerede registreret";
-				//return;
-			//}
-		//}
 	//checker om post nr findes i databasen	
 	$query = "SELECT COUNT(1) FROM zip WHERE zip = ?";
 	$stmt = $link->prepare($query);
@@ -108,12 +93,11 @@
 	//konstruere header og besked til en HTML email
 	$headers = "From: " . $sender . "\r\n";
 	$headers .= "Reply-To: ". $sender . "\r\n";
-	$headers .= "CC: susan@example.com\r\n";
 	$headers .= "MIME-Version: 1.0\r\n";
 	$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 	
 	$message = '<html>
-  	<body bgcolor="#DCEEFC">
+  	<body bgcolor="#fff">
    		<p>Tak for din tilmelding i tivolis konkurrence og 2 entre billeter til karneval i tiovoli. </p>
 	  </body>
 	</html>';

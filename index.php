@@ -6,7 +6,7 @@
 
 		<link rel="shortcut icon" href="images/favicon.ico" />
         <title>Karneval i Tivoli - Nyheder 2012</title>
-		<meta name="description" content="Tivoli holder karneval i forbindelse med Fastelavn. Læs nyheder om karnevallet. Klæd dig ud og slå dig læs til et brag af en fest." /
+		<meta name="description" content="Tivoli holder karneval i forbindelse med Fastelavn. Læs nyheder om karnevallet. Klæd dig ud og slå dig læs til et brag af en fest." />
 		<meta name="keywords" content="Tivoli, karneval, karnevaller, karnevallet, fastelavn, udklædning, kostume, Tivolis karneval, vind, deltag, fest, 2012" />
 		<meta name="author" content="Jens Peter schandorff" />
 		<meta name="robots" content="index, follow" />
